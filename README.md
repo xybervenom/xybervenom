@@ -7,7 +7,7 @@
 - 🔭 I’m currently Working in field of Data Science and Machine Learning 
 - 🌱 Trying to improve my skills everyday
 - 🥅 2020 Goals: Learn more Everyday
-- ⚡ Want to know Something interesting? I can cook really well.
+- ⚡ Want to know Something interesting? : I can cook really well.
 
 ### Connect with me:
 
@@ -30,6 +30,8 @@
 <img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/32/000000/css3.png" />
 
 <br />
+
+[<img align="left" alt="Badge" width="340px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
 
 ### Tools:
 
@@ -55,7 +57,6 @@
 <br />
 <br />
 
-
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xybervenom&show_icons=true&hide_border=true&count_private=true" /> <br><br>
@@ -65,3 +66,4 @@
 [instagram]: https://instagram.com/xybervenom
 [linkedin]: https://linkedin.com/in/xybervenom
 [facebook]: https://www.facebook.com/xybervenom
+[datascience]:  https://www.youracclaim.com/badges/28b144b9-da0b-47ec-b336-d8e0b33d4ea7/public_url
