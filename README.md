@@ -31,7 +31,7 @@
 
 <br />
 
-[<img align="left" alt="Badge" width="340px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
+[<img align="Right" alt="Badge" width="340px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
 
 ### Tools:
 
