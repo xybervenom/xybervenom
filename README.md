@@ -1,4 +1,4 @@
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F90258113%2FNIKE-SPORTSWEAR-X-FOOTLOCKER&psig=AOvVaw2cG_XIKR94ILbtRoeaRpoi&ust=1597607742222000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCZrKT_nesCFQAAAAAdAAAAABAJ)
+![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
 #### A Student, Gamer and a Data Scientist
 ---
