@@ -1,4 +1,4 @@
-![img](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/ai-revised2.gif)
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F90258113%2FNIKE-SPORTSWEAR-X-FOOTLOCKER&psig=AOvVaw2cG_XIKR94ILbtRoeaRpoi&ust=1597607742222000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCZrKT_nesCFQAAAAAdAAAAABAJ)
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
 #### A Student, Gamer and a Data Scientist
 ---
@@ -19,25 +19,25 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Python" width="48px" src="https://img.icons8.com/color/48/000000/python.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
 
-<img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
+<img align="left" alt="Photoshop" width="48px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
 
-<img align="left" alt="Lightroom" width="26px" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" />
+<img align="left" alt="Lightroom" width="48px" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" />
 
-<img align="left" alt="Adobe XD" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
+<img align="left" alt="Adobe XD" width="48px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/48/000000/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
+<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
 
 
 
