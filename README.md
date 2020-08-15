@@ -1,4 +1,5 @@
-![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
+<-- ![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
+-->
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
 #### A Student, Gamer and a Data Scientist
 ---
@@ -19,25 +20,35 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C" width="32px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
-<img align="left" alt="Python" width="48px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
 
-<img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 
-<img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/000000/css3.png" />
 
-<img align="left" alt="Photoshop" width="48px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
+<img align="left" alt="Jupyter" width="32px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png" />
 
-<img align="left" alt="Lightroom" width="48px" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" />
+<img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
 
-<img align="left" alt="Adobe XD" width="48px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
+<img align="left" alt="Anaconda" width="32px" src="https://avatars0.githubusercontent.com/u/3571983?s=400&v=4" />
 
-<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 
-<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
 
-<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
+<img align="left" alt="Anaconda" width="32px" src="https://avatars0.githubusercontent.com/u/3571983?s=400&v=4" />
+
+<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
+
+<img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
+
+<img align="left" alt="Photoshop" width="32px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
+
+<img align="left" alt="Lightroom" width="32px" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" />
+
+<img align="left" alt="Adobe XD" width="32px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
 
 
 
