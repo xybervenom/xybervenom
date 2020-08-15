@@ -9,6 +9,8 @@
 - 🥅 2020 Goals: Learn more Everyday
 - ⚡ Want to know Something interesting? : I can cook really well.
 
+[<img align="Right" alt="Badge" width="140px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
+
 ### Connect with me:
 
 [<img align="left" alt="xybervenom.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,7 +33,7 @@
 
 <br />
 
-[<img align="Right" alt="Badge" width="140px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
+
 
 ### Tools:
 
