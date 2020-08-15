@@ -55,7 +55,7 @@
 <br />
 <br />
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1b1a08d7-5269-4235-ac01-006ce1762935" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xybervenom&show_icons=true&hide_border=true&count_private=true" /> <br><br>
