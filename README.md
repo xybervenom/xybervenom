@@ -7,7 +7,7 @@
 - 🔭 I’m currently Working in field of Data Science and Machine Learning 
 - 🌱 Trying to improve my skills everyday
 - 🥅 2020 Goals: Learn more Everyday
-- ⚡ Want to know Something interesting? : I can cook really well.
+- ⚡ Want to know Something interesting? : I am a History Buff
 
 [<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
 
