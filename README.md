@@ -2,7 +2,7 @@
 -->
 
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
-#### A Student, Gamer and ML Engineer
+#### A Student, Gamer and an aspiring Data Scientist
 ---
 - 🔭 I’m currently Working in field of Data Science and Machine Learning 
 - 🌱 Trying to improve my skills everyday
