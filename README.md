@@ -2,7 +2,7 @@
 -->
 
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
-#### A Student, Gamer and an aspiring Data Scientist
+#### A Student, Gamer and an aspiring Business Analyst
 ---
 An aspiring Business Analyst, skilled in leadership and verbal exchange. Skilled in decoding and reading data to drive growth for a Logistics company and is passionate about analyzing how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a Business Analyst.
 
