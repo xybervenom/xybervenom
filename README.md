@@ -4,10 +4,9 @@
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
 #### A Student, Gamer and an aspiring Data Scientist
 ---
-- 🔭 I’m currently Working in field of Data Science and Machine Learning 
-- 🌱 Trying to improve my skills everyday
-- 🥅 2021 Goals: Learn more Everyday
-- ⚡ Want to know Something interesting? : I am a History Buff
+An aspiring Business Analyst, skilled in leadership and verbal exchange. Skilled in decoding and reading data to drive growth for a Logistics company and is passionate about analyzing how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a Business Analyst.
+
+If you catch me outside of work, you'll probably find me traveling to different places Exploring and Capturing History. I am History Buff
 
 [<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
 
