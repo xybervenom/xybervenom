@@ -1,6 +1,6 @@
 <!-- ![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
 -->
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=xybervenom)
 ## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
 #### A Student, Gamer and an aspiring Business Analyst
 ---
