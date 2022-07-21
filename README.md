@@ -59,7 +59,7 @@ If you catch me outside of work, you'll probably find me traveling to different 
 <br />
 
 ---
--->
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xybervenom&show_icons=true&hide_border=true&count_private=true" /> <br><br>
 
 [website]: https://xybervenom.github.io/
@@ -67,4 +67,4 @@ If you catch me outside of work, you'll probably find me traveling to different 
 [instagram]: https://instagram.com/xybervenom
 [linkedin]: https://linkedin.com/in/xybervenom
 [facebook]: https://www.facebook.com/xybervenom
-[datascience]:  https://www.youracclaim.com/badges/28b144b9-da0b-47ec-b336-d8e0b33d4ea7/public_url
+[datascience]:  https://www.youracclaim.com/badges/28b144b9-da0b-47ec-b336-d8e0b33d4ea7/public_url -->
