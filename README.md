@@ -1,7 +1,7 @@
 <!-- ![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
 -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xybervenom)
-## Hey there, I'm Jayant Jain - aka [Xybervenom][website] 👋
+## Hey there, I'm Jayant Jain - aka  👋
 #### A Student, Gamer and an aspiring Business Analyst
 ---
 An aspiring Business Analyst, skilled in leadership and verbal exchange. Skilled in decoding and reading data to drive growth for a Logistics company and is passionate about analyzing how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a Business Analyst.
@@ -10,8 +10,8 @@ If you catch me outside of work, you'll probably find me traveling to different 
 
 [<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
 
-### Connect with me:
-
+### Connect with me [Xybervenom][website]
+<!-- 
 [<img align="left" alt="xybervenom.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="xybervenom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="xybervenom | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
