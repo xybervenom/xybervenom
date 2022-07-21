@@ -1,7 +1,7 @@
 <!-- ![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
 -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xybervenom)
-## Hey there, I'm Jayant Jain - aka Xybervenom 👋
+## Hey there, I'm Jayant Jain aka Xybervenom 👋
 ####  An Aspiring Business Consultant and a Finance Enthusiast
 ---
 An aspiring Business Consultant, proficient in leadership and verbal exchange. Experienced in decoding data and passionate about analyzing how to improve performance is exploring to leverage data analytical skills to improve corporate performance as a Business Analyst.
@@ -61,10 +61,10 @@ If you catch me outside of work, you'll probably find me travelling to different
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xybervenom&show_icons=true&hide_border=true&count_private=true" /> <br><br>
-
+-->
 [website]: https://xybervenom.github.io/
 [kaggle]: https://www.kaggle.com/xybervenom
 [instagram]: https://instagram.com/xybervenom
 [linkedin]: https://linkedin.com/in/xybervenom
 [facebook]: https://www.facebook.com/xybervenom
-[datascience]:  https://www.youracclaim.com/badges/28b144b9-da0b-47ec-b336-d8e0b33d4ea7/public_url -->
+[datascience]:  https://www.youracclaim.com/badges/28b144b9-da0b-47ec-b336-d8e0b33d4ea7/public_url 
