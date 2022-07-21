@@ -1,12 +1,12 @@
 <!-- ![img](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89f0ea90258113.5e130d63f3d9b.gif)
 -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xybervenom)
-## Hey there, I'm Jayant Jain - aka  👋
-#### A Student, Gamer and an aspiring Business Analyst
+## Hey there, I'm Jayant Jain - aka Xybervenom 👋
+####  An Aspiring Business Consultant and a Finance Enthusiast
 ---
-An aspiring Business Analyst, skilled in leadership and verbal exchange. Skilled in decoding and reading data to drive growth for a Logistics company and is passionate about analyzing how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a Business Analyst.
+An aspiring Business Consultant, proficient in leadership and verbal exchange. Experienced in decoding data and passionate about analyzing how to improve performance is exploring to leverage data analytical skills to improve corporate performance as a Business Analyst.
 
-If you catch me outside of work, you'll probably find me traveling to different places Exploring and Capturing History. I am History Buff
+If you catch me outside of work, you'll probably find me travelling to different places Exploring and Capturing History. I am History Buff.
 
 <!-- [<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience] -->
 
