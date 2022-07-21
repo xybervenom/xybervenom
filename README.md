@@ -8,7 +8,7 @@ An aspiring Business Analyst, skilled in leadership and verbal exchange. Skilled
 
 If you catch me outside of work, you'll probably find me traveling to different places Exploring and Capturing History. I am History Buff
 
-[<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience]
+<!-- [<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience] -->
 
 ### Connect with me [Xybervenom][website]
 <!-- 
@@ -53,13 +53,13 @@ If you catch me outside of work, you'll probably find me traveling to different 
 <img align="left" alt="Lightroom" width="32px" src="https://img.icons8.com/color/32/000000/adobe-lightroom.png" />
 
 <img align="left" alt="Adobe XD" width="32px" src="https://img.icons8.com/color/32/000000/adobe-photoshop.png" />
--->
+
 
 <br />
 <br />
 
 ---
-
+-->
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xybervenom&show_icons=true&hide_border=true&count_private=true" /> <br><br>
 
 [website]: https://xybervenom.github.io/
