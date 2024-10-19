@@ -2,11 +2,12 @@
 -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xybervenom)
 ## Hey there, I'm Jayant Jain aka Xybervenom 👋
-####  An Aspiring Business Consultant and a Finance Enthusiast
----
-An aspiring Business Consultant, proficient in leadership and verbal exchange. Experienced in decoding data and passionate about analyzing how to improve performance is exploring to leverage data analytical skills to improve corporate performance as a Business Analyst.
+####  Senior Associate at ZS (DAA) || Business Consulting || US Oncology
 
-If you catch me outside of work, you'll probably find me travelling to different places Exploring and Capturing History. I am History Buff.
+---
+I’m a Senior Associate in consulting with a background in business analysis and data analytics, passionate about driving performance improvement. I specialize in decoding data to uncover trends, optimize processes, and support strategic decision-making. With strong leadership skills and effective communication, I bridge the gap between data insights and practical business solutions.
+
+Outside of work, I’m a dedicated History Buff who loves exploring and capturing historical sites through my camera.
 
 <!-- [<img align="Right" alt="Badge" width="179px" src="https://images.youracclaim.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png" />][datascience] -->
 
